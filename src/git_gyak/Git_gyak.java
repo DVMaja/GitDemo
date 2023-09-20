@@ -13,8 +13,9 @@ public class Git_gyak {
         
     }
 
+
     private void Methodus() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Githubon szerkeztett");
     }
     
 }
